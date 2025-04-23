@@ -1,4 +1,4 @@
-// https://leetcode.com/problems/counter
+// https://leetcode.com/problems/counter - JavaScript
 
 var createCounter = function(n) {
     return function() {    
